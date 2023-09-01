@@ -54,10 +54,11 @@ function manejarObjeto(persona) {}
   recuerda que elevar una base a un exponente significa multiplicar la base por sí misma el número de veces indicado por el exponente.
   Por ejemplo, 2 elevado a la 3 (2^3) es igual a 2 * 2 * 2 = 8.
   🚧🚧
+
+🤓🤓  Recorda que en Javascript para potenciar un numero se usa el "**" 👀👀
 */
 
 const potenciaNumeros = false;
-
 
 // ❌NO ELIMINAR NI MODIFICAR NADA DEBAJO DE ESTA LINEA❌
 module.exports = {
@@ -66,5 +67,5 @@ module.exports = {
   elegirFruta,
   manejarObjeto,
   multiplicarValores,
-  potenciaNumeros
-}
+  potenciaNumeros,
+};
